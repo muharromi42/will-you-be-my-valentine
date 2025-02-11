@@ -21,6 +21,7 @@ export default function Page() {
       "Udah di depan btw",
       "Aokaowoawawk",
       "Gk bisa nolak ya :v",
+      "Di Depan rumah btw",
       "Dah ambil aja depan rumah",
     ];
 
